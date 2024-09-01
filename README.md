@@ -17,7 +17,7 @@ I specialize in developing mobile apps using Flutter and designing user interfac
 <br>
 #### 💻 Current <hr></hr>
 - 💼 I’m currently working on developing my Flutter projects 
-- 📖 I’m currently learning Backend Implementation
+- 📖 I’m currently learning API Implementation
 <br>
 
  #### ☕ Connect with me <hr></hr>
