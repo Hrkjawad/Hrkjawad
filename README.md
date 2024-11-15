@@ -10,8 +10,8 @@ I specialize in developing mobile apps using Flutter and designing user interfac
 
 #### ⭐ Skills <hr></hr>
 ✅ Flutter<br>
-✅ UI Design (Figma) / Photoshop / Illustrator<br>
-✅ C++ / Java<br>
+✅ UI Design (Figma) / Photoshop / Illustrator / Audio Mastering / SEO / YouTube<br>
+✅ C++ / Java Swing<br>
 ✅ HTML5 / CSS3 / Bootstrap<br>
 ✅ WordPress / Blogging
 <br>
