@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hasibur Rahman Khurasani Jawad  
-**Flutter Developer | UI/UX | Wordpress**  
+**Flutter Developer | UI/UX | WordPress**  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 📬 Let’s Connect  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/hrkjawad/) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">](mailto:hrkjawad10@gmail.com)  
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">](mailto:hrkjawaddev@gmail.com)  
 
 <!-- **Portfolio:** [Live Projects](#) -->
 --- 
