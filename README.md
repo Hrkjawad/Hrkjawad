@@ -1,29 +1,38 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQEgrZO9SVZDuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704022578514?e=1730332800&v=beta&t=qXxcFj7V8u1PoRViFGwYd52EEvkc_w8qt_6z62XSaBs)
-#### Hi there 👋, 
-## I'm Hasibur Rahman Khurasani Jawad
-<br>
+# 👋 Hi, I'm Hasibur Rahman Khurasani Jawad  
+**Flutter Developer | UI/UX | Wordpress**  
 
-#### 🚀 About Me <hr></hr>
+---
 
-I specialize in developing mobile apps using Flutter and designing user interfaces in Figma. As a Flutter developer and Figma UI designer, I build high-performance mobile applications focusing on sleek and user-friendly interfaces. My goal is to create apps that are not only functional but also visually compelling. I also have experience in WordPress, blogging, photoshop, and other applications.
-<br>
+## 🚀 Technical Profile  
+**Mobile Development:**  
+📱 Flutter (Dart) | Firebase | REST APIs | MVVM Architecture
 
-#### ⭐ Skills <hr></hr>
-✅ Flutter<br>
-✅ UI Design (Figma) / Photoshop / Illustrator / Audio Mastering / SEO / YouTube<br>
-✅ C++ / Java Swing<br>
-✅ HTML5 / CSS3 / Bootstrap<br>
-✅ WordPress / Blogging
-<br>
-#### 💻 Current <hr></hr>
-- 💼 I’m currently working on developing my Flutter projects 
-- 📖 I’m currently learning API Implementation
-<br>
+**UI/UX & Design:**  
+🎨 Figma (UI/UX Design) | Adobe Photoshop/Illustrator  
 
- #### ☕ Connect with me <hr></hr>
+**Web & Others:**  
+🌐 WordPress(Elementor/woocommerce) | HTML/CSS/bootstrap/PHP | SEO Optimization  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hrkjawad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hrkjawad/)  
+## 🔥 Key Strengths  
+✅ **Full App Lifecycle Experience**: Built 4+ production-ready Flutter apps like [BookBin](https://github.com/hrkjawad/bookbin) and [CraftyBay](https://github.com/hrkjawad/craftybay) with real-time chat, Firebase auth, and performance optimization.  
+✅ **UI-Centric Development**: Combine Flutter with Figma to create pixel-perfect UIs, ex: [ComplexUI App](https://github.com/hrkjawad/complex_ui_task).  
+✅ **Agile Collaborator**: Experience with Git, OOP, and Agile in projects like [MyCampus](https://github.com/hrkjawad/My_Campus) and Build a private flutter web for our university faculty.  
 
-###### 📧 hrkjawad10@gmail.com
+---
 
+## 🌱 Current Focus  
+- 🚀 Expanding APIs skills for native Android development  
+- 🔍 Mastering advanced state management (Riverpod) in Flutter  
+
+---
+
+## 📬 Let’s Connect  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/hrkjawad/) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">](mailto:hrkjawad10@gmail.com)  
+
+<!-- **Portfolio:** [Live Projects](#) -->
+--- 
+
+> *"I build apps that marry functionality with delightful design—scalable, performant, and user-first."*  
