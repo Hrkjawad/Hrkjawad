@@ -4,7 +4,7 @@
 
 ---
 
-## 💼 Current Experience
+## 💼 Experience
 
 **Flutter Developer (On-site)** — *Nov 2025 - Current*
 
@@ -28,7 +28,7 @@
 **Digital Consultant (WordPress & Growth Support) — Remote)** — *July 2025 - Current*
 
 - Initially hired as a **WordPress developer**, later expanded into a broader **digital consultancy role**.
-- Built and optimized WordPress websites (Elementor/WooCommerce) with SEO and performance focus.
+- Built and optimized WordPress websites (Elementor , Divi, WPBakery and WooCommerce) with SEO and performance focus.
 - Conducted **website audits** covering UX, SEO, performance, and conversion issues.
 - Supported **lead generation** through research, email outreach, and client prospecting.
 - Created marketing assets using **Photoshop** and assisted with **social media campaigns**.
@@ -56,7 +56,7 @@
 
 ### 🌐 Web & CMS
 
-* WordPress (Elementor, WooCommerce)
+* WordPress (Elementor , Divi, WPBakery and WooCommerce)
 * HTML, CSS, Bootstrap
 * Basic PHP customization
 * SEO Optimization & Performance Tuning
